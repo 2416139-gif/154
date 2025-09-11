@@ -1,0 +1,13 @@
+Progress so far: Out of 11 total work items, 7 have been completed.
+
+Activity: In the last 7 days, 11 work items were updated, 1 new item was created, and 1 item is due soon.
+
+Recent update: A team member gave a status update that the project is currently in the “Design3” phase, with the due date set for October 2, 2025. They are waiting for some additional details to proceed.
+
+Priorities: Most of the tasks are marked as Medium priority, while a smaller number are High or Low priority.
+
+Types of work: Half of the tasks are Assets (50%), and the rest are evenly split between Requests (25%) and Research (25%).
+
+Team workload: The tasks are divided equally among the four members (Karthick R, Madhan Raj, Madhan M, and Mahesh AP), each handling 25% of the work.
+
+Epic progress: Larger project goals (epics) are also being tracked, ensuring the team’s progress contributes to the overall objectives.
